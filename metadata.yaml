@@ -1,0 +1,38 @@
+_repo: The-Blind-Man-s-Eyes_33064
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Dexter, Wilson C.
+    gutenberg_agent_id: '24874'
+    url: http://www.gutenberg.org/2009/agents/24874
+covers:
+- cover_type: archival
+  image_path: 33064-h/images/img-cover.jpg
+creator:
+  authors:
+  - agent_name: MacHarg, William
+    birthdate: 1872
+    deathdate: 1951
+    gutenberg_agent_id: '36186'
+    url: http://www.gutenberg.org/2009/agents/36186
+  - agent_name: Balmer, Edwin
+    birthdate: 1883
+    deathdate: 1959
+    gutenberg_agent_id: '36187'
+    url: http://www.gutenberg.org/2009/agents/36187
+    wikipedia: http://en.wikipedia.org/wiki/Edwin_Balmer
+description: ''
+gutenberg_issued: '2010-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33064'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'PS'
+- !lcsh 'Mystery fiction'
+title: The Blind Man's Eyes
+url: http://www.gutenberg.org/ebooks/33064
